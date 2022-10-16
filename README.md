@@ -4,7 +4,7 @@
 **Suganya-AM/Suganya-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![1](https://user-images.githubusercontent.com/103459693/196060612-3705dfbc-30c1-494d-a1ef-1435e5e3bf2a.jpg)
+![1](https://user-images.githubusercontent.com/103459693/196060612-3705dfbc-30c1-494d-a1ef-1435e5e3bf2a.jpg | width=100)
 ![2](https://user-images.githubusercontent.com/103459693/196060614-e86f8a8b-1a45-46b5-b981-edcdcc716b45.jpg)
 ![3](https://user-images.githubusercontent.com/103459693/196060618-254bb5b1-c051-4424-b7fa-964ef8f4e834.jpg)
 ![4](https://user-images.githubusercontent.com/103459693/196060621-d3a3d392-31da-4bc4-b56d-575a3a86990f.jpg)
