@@ -1,4 +1,3 @@
-
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/103459693/196075984-ef8aa13e-06fb-4f82-9f0b-409a279ef2f1.gif" />
 <br />
 <br />
@@ -9,8 +8,7 @@
 </p>
 <br />
 <br />
-<br />
-Exploring AI
+Exploring AI 
 <br />
 <br />
 <br />
@@ -38,8 +36,8 @@ Agile Scrum Master
 IT Foundation in IT Service Management  
 ***
 **Academics**  
-Post Graduate Diploma in Artificial Intelligence & Data Analytics in Saskatchewan Polytechnic, Canada  
-Bachelor of Engineering in Electronics & Communication in Anna University, India  
+Post Graduate Diploma in **Artificial Intelligence & Data Analytics** in Saskatchewan Polytechnic, **Canada**  
+Bachelor of **Engineering** in Electronics & Communication in Anna University, India  
 ***
 
   
