@@ -37,7 +37,7 @@ Post Graduate Program in Data Science
 Agile Scrum Master  
 IT Foundation in IT Service Management  
 ***
-**Academics**
+**Academics**  
 Post Graduate Diploma in Artificial Intelligence & Data Analytics in Saskatchewan Polytechnic, Canada  
 Bachelor of Engineering in Electronics & Communication in Anna University, India  
 ***
@@ -46,6 +46,5 @@ Bachelor of Engineering in Electronics & Communication in Anna University, India
 <br />
 
 <a href="https://www.linkedin.com/in/suganya-arumugam-manickam-82811466/">
-  <img align="left" alt="Suganya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Suganya's LinkedIN" width="43px" src="https://user-images.githubusercontent.com/103459693/196082694-ee204f1e-f624-41f9-b6fc-13c265c3184e.jpeg" />
 </a>
-
