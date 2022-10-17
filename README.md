@@ -32,7 +32,7 @@ Experience in working in Cloud Platforms like Azure, AWS
 **Leadership Roles:** Service Delivery Manager | Service Lead | Business Analyst | Offshore Team Lead | ETL Lead | BI Lead  
 **Developer Roles:** ETL Developer | SSIS Developer | Tableau Developer
 ***
-**Certifications**
+**Certifications**  
 Post Graduate Program in Data Science  
 Agile Scrum Master  
 IT Foundation in IT Service Management  
