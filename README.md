@@ -1,5 +1,30 @@
-<p align = "center">
-<video src="https://user-images.githubusercontent.com/103459693/196065820-46683225-d60e-4dd3-9eeb-6fbc38589d8c.mp4" width=180></video>
+
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/103459693/196075984-ef8aa13e-06fb-4f82-9f0b-409a279ef2f1.gif" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/103459693/196075984-ef8aa13e-06fb-4f82-9f0b-409a279ef2f1.gif" />
+
+<br />
+
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
 **Data Architect** with over 11 years of experience in working all phases of Development life cycle projects including Data Warehousing, Bigdata platform based on Hadoop and Business Intelligence. Remarkable reputation for having vast domain & technical expertise in Data warehouse modeling, ETL Tools & BI Tools and investing them in achieving organizational goals on schedule with standards. Consistently driving gains in overall operational efficiency while reducing costs and improving profitability through automation.
 ***
 **Key Skill Sets:**  
