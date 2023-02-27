@@ -16,19 +16,19 @@ Exploring AI
 ***
 **Key Skill Sets:**  
 ETL: Informatica Power Center, Informatica IDQ, Informatica BDM (Big Data Management), SSIS, APEX Data Loader  
-Reporting: Tableau, Power BI  
+Reporting: Tableau, Power BI, QlikSense  
 RDBMS: Oracle, SQL Server, Exasol, MS SQL, PostgreSQL  
 Language: SQL, PL/SQL, SOQL, Hive SQL, Basic Unix Shell Scripting  
 Data Modeling: ERwin, MS Visio, SQL Modeler  
 DWH Data Modelling: Dimensional Modelling with Star & Snowflake  
-Project Management Tools: JIRA, Kanban  
+Project Management Tools: JIRA, Kanban, Confluence  
 Experience in working outlier Source Systems are Seibel CRM, Veeva CRM, SAP HANA  
 Experience in working in Cloud Platforms like Azure, AWS  
 ***
 **BigData/DataScience Tools & Technologies:** Dataiku, Dermio, Hive, Python
 ***
 **Leadership Roles:** Service Delivery Manager | Service Lead | Business Analyst | Offshore Team Lead | ETL Lead | BI Lead  
-**Developer Roles:** ETL Developer | SSIS Developer | Tableau Developer
+**Developer Roles:** ETL Developer | SSIS Developer | BI Developer
 ***
 **Certifications**  
 Post Graduate Program in Data Science  
