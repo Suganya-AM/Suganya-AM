@@ -4,7 +4,7 @@
 
 <p class="text-center">
   
-**Data Architect** with over 11 years of experience in working all phases of Development life cycle projects including Data Warehousing, Bigdata platform based on Hadoop, Cloud and Business Intelligence. Remarkable reputation for having vast domain & technical expertise in Data warehouse modeling, ETL Tools & BI Tools and investing them in achieving organizational goals on schedule with standards. Consistently driving gains in overall operational efficiency while reducing costs and improving profitability through automation.
+**Data Architect** with over 13 years of experience in working all phases of Development life cycle projects including Data Warehousing, Bigdata platform based on Hadoop, Cloud and Business Intelligence. Remarkable reputation for having vast domain & technical expertise in Data warehouse modeling, ETL Tools & BI Tools and investing them in achieving organizational goals on schedule with standards. Consistently driving gains in overall operational efficiency while reducing costs and improving profitability through automation.
 </p>
 <br />
 <br />
